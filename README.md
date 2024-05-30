@@ -7,8 +7,7 @@
 ```Yang Digunakan Untuk```
 ```Membuat Akun Facebook```
 ```Secara Mudah Dan Otomatis```
-```Mendapatkan Akses Cookies```
-```Untuk Tumbal Cracking```
+```Mendapatkan Akses Token```
 
 ## Link Download Termux
 [Klik Disini](https://f-droid.org/repo/com.termux_118.apk)
